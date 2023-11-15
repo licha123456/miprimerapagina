@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+nav h3 {
+    color: rgb(250, 244, 245);
+}
+
+main {
+    color: chocolate;
+}
+html, body, #main {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     }
